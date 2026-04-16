@@ -309,7 +309,7 @@ function sendMessage() {
         reply = "Only if you are Kim Jasmine Tolentino.";
     }
     else if (msg.includes("pogi")) {
-        reply = "Yes, but it depends on how others see you.";
+        reply = "Yes… from a certain angle 😂😂👌";
     }
     else {
       reply = "Hmm... I'm still learning";
